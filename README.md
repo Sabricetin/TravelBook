@@ -1,13 +1,3 @@
-Elbette, projenizi inceleyip, verilen örneğe benzer bir tanıtım yazısı oluşturabilirim. Öncelikle, projenizi incelemem gerekiyor. Ardından, proje detaylarını tanıtım yazısına uygun şekilde düzenleyeceğim.
-
-Projenizi inceleyip, size uygun bir yazı oluşturuyorum.
-
-Biraz bekleteceğim.
-
-Projeniz hakkında bir tanıtım yazısı oluşturabilmem için gerekli bilgileri topladım. İşte `TravelBook` projeniz için hazırladığım tanıtım yazısı:
-
----
-
 # TravelBook Uygulaması
 
 Bu Swift kodu, seyahat noktalarını kaydeden, kullanıcıların bu seyahat noktalarını seçerek detaylarını görüntüleyebileceği ve yeni seyahat noktaları ekleyebileceği bir iOS uygulaması oluşturuyor. Uygulama Core Data'yı kullanarak verileri saklar ve yönetir. Kod, temel olarak bir `UIViewController` sınıfını genişletir ve `UITableViewDelegate`, `UITableViewDataSource` ve diğer ilgili protokolleri uygular.
