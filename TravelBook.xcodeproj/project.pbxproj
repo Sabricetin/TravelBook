@@ -17,6 +17,7 @@
 		1EDF2F0D2BF6804B006299CF /* TravelBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EDF2F0C2BF6804B006299CF /* TravelBookTests.swift */; };
 		1EDF2F172BF6804B006299CF /* TravelBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EDF2F162BF6804B006299CF /* TravelBookUITests.swift */; };
 		1EDF2F192BF6804B006299CF /* TravelBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EDF2F182BF6804B006299CF /* TravelBookUITestsLaunchTests.swift */; };
+		1EE495242BF8B9770043F247 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE495232BF8B9770043F247 /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		1EDF2F122BF6804B006299CF /* TravelBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TravelBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EDF2F162BF6804B006299CF /* TravelBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBookUITests.swift; sourceTree = "<group>"; };
 		1EDF2F182BF6804B006299CF /* TravelBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1EE495232BF8B9770043F247 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ListViewController.swift; path = ../ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				1EDF2EF22BF68049006299CF /* AppDelegate.swift */,
 				1EDF2EF42BF68049006299CF /* SceneDelegate.swift */,
 				1EDF2EF62BF68049006299CF /* ViewController.swift */,
+				1EE495232BF8B9770043F247 /* ListViewController.swift */,
 				1EDF2EF82BF68049006299CF /* Main.storyboard */,
 				1EDF2EFE2BF6804B006299CF /* Assets.xcassets */,
 				1EDF2F002BF6804B006299CF /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				1EDF2EFD2BF68049006299CF /* TravelBook.xcdatamodeld in Sources */,
 				1EDF2EF72BF68049006299CF /* ViewController.swift in Sources */,
 				1EDF2EF32BF68049006299CF /* AppDelegate.swift in Sources */,
+				1EE495242BF8B9770043F247 /* ListViewController.swift in Sources */,
 				1EDF2EF52BF68049006299CF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -446,6 +450,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2A7PW787VZ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TravelBook/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -453,6 +458,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -473,6 +479,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2A7PW787VZ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TravelBook/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -480,6 +487,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
