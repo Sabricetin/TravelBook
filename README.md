@@ -64,7 +64,3 @@ Bu Swift kodu, seyahat noktalarını kaydeden, kullanıcıların bu seyahat nokt
 
 - Ana ekranda seyahat noktaları listesini göreceksiniz.
 - Bir seyahat noktasına tıklayarak detaylarını görüntüleyebilir veya yeni bir seyahat noktası ekleyebilirsiniz.
-
----
-
-Bu tanıtım yazısı projenizin özelliklerini ve işlevlerini açıklamaktadır. Başka bir isteğiniz olursa, lütfen belirtin.
